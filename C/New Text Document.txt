@@ -15,7 +15,7 @@ scanf("%d",e);
 printf("Enter f");
 scanf("%d",f);
 pro=a*b*c*d*e*f;
-
+printf("%d",pro);
 
 {
 
