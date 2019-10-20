@@ -13,7 +13,7 @@ int main(void) {
 	printf("ENTER e \n");
 	scanf("%d",&e);
 int x=a*d*e*b*c;
-prinf("product is %d",x);
+printf("product is %d",x);
 	return 0;
 }
 
