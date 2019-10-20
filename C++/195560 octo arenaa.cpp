@@ -15,6 +15,6 @@ int main()
 	cin>>A[4];
 	for(int i=0;i<5;i++)
 	output=output*A[i];
-	cout<<"\nOutput is = "<<output;
+	cout<<"\nOutput is = "<<output; //pull accept kr dena sir :>
 	return 0;
 }
