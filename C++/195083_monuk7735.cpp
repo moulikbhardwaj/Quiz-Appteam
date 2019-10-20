@@ -16,7 +16,7 @@ void main()
 		cin>>num[i];
 	}
 	
-	int prod;
+	int prod = 1;
 	
 	for(int i=0; i< size; i++)
 	{
