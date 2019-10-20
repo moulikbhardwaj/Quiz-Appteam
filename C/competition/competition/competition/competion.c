@@ -22,6 +22,6 @@ int main()
     printf("Please enter the fifth number\n");
     scanf("%d",&e);
     product=a*b*c*d*e;
-    printf("Sum of the numbers is=%d\n",product);
+    printf("Product of the numbers is=%d\n",product);
     return 0;
 }
