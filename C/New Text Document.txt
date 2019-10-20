@@ -3,19 +3,19 @@ int main()
 {
 int pro,a,b,c,d,e,f,h;
 printf("Enter a");
-scanf("%d",a);
+scanf("%d",&a);
 printf("Enter b");
-scanf("%d",b);
+scanf("%d",&b);
 printf("Enter c");
-scanf("%d",c);
+scanf("%d",&c);
 printf("Enter d");
-scanf("%d",d);
+scanf("%d",&d);
 printf("Enter e");
-scanf("%d",e);
+scanf("%d",&e);
 printf("Enter f");
-scanf("%d",f);
+scanf("%d",&f);
 pro=a*b*c*d*e*f;
-printf("%d",pro);
+printf("%d",&pro);
 
 {
 
