@@ -1,0 +1,34 @@
+#include <stdio.h>
+int main()
+{
+int pro,a,b,c,d,e,f,h;
+printf("Enter a");
+scanf("%d",a);
+printf("Enter b");
+scanf("%d",b);
+printf("Enter c");
+scanf("%d",c);
+printf("Enter d");
+scanf("%d",d);
+printf("Enter e");
+scanf("%d",e);
+printf("Enter f");
+scanf("%d",f);
+pro=a*b*c*d*e*f;
+
+
+{
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}
