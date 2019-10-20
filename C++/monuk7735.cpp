@@ -8,7 +8,7 @@ void main()
 	const int size = 5;
 	
 	int num[size];
-	char alpha[size] = { 'A', 'B' , 'C' , 'D' , 'E'}
+	char alpha[size] = { 'A', 'B' , 'C' , 'D' , 'E'};
 	cout << "Enter " << size << " Numbers: ";
 	for(int i=0; i< size; i++)
 	{
@@ -20,7 +20,7 @@ void main()
 	
 	for(int i=0; i< size; i++)
 	{
-		prod = prod * num[i]
+		prod = prod * num[i];
 	}
 	
 	cout << endl << "Product is: : << prod;
