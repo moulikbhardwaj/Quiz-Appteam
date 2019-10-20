@@ -5,7 +5,7 @@ using namespace std;
 
 void main()
 {
-	const size = 5;
+	const int size = 5;
 	
 	int num[size];
 	char alpha[size] = { 'A', 'B' , 'C' , 'D' , 'E'}
