@@ -1,10 +1,12 @@
+
+!.gitignore
 #include<stdio.h>
 int main
 {
-int a,b,c,d,e,product;
-printf("enter a,b,c,d,e");
-scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
-product=a*b*c*d*e;
-printf("the product is %d",product")
+int a,b,c;
+printf("enter a and b");
+scanf("%d%d",&a,&b);
+c=a*b;
+printf("product of a and b is %d",c);
 return 0;
 }
